@@ -1,0 +1,20 @@
+// dang nhap trong cakePHP
+
+AuthComponent để kiểm tra 
+
+	- b1 : khởi tạo
+	- b2 : xử lý
+	- b3 : hiển thị
+- chức năng đăng nhập và đăng xuất
+	- dùng AuthComponent cần được khai báo trong AppController 
+	- thiết lập giá trị cho Auth => array (
+										'loginAction' => '/login',
+										'authError'   => 'bạn cần phải đăng nhập để tiếp tục',
+										'flash'		  => array(
+											'element' => 'default',
+											'key'	  => 'auth',
+											'params'  => array('class' =>'alert alert-danger')
+
+										),
+										'loginRedirect' => '/'	
+										)

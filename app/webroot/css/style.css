@@ -1,0 +1,116 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+p.comment {
+    padding-bottom: 10px;
+    border-bottom: dotted 1px gray;
+}
+
+h4.tieudegioithieu {
+    margin-top: 70px;
+}
+
+p.noidunggioithieu {
+    text-align: justify;
+    padding: 0px 60px;
+}
+
+
+
+h4.titleuser {
+    padding: 0px;
+    margin: 0px;
+}
+ul, dir {
+    display: block;
+    /* list-style-type: disc; */
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 30px;
+}
+p.pricetotal {
+    background: gray;
+    width: 150px;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+ul.motgh {
+    padding: 10px;
+}
+h4.titlelist{
+    padding: 0px;
+    margin: 0px;
+}
+h4.titleuser {
+    padding: 0px;
+    margin: 0px;
+}
+
+.col.col-md-3.motsp {
+    width: 210px;
+    text-align: center;
+    padding-left: 22px;
+    height: 310px;
+}
+
+h4.titlesachmoi {
+    padding: 0px;
+    margin: 0px;
+}
+h4.titlesachchay{
+    padding: 0px;
+    margin: 0px;
+}
+h4.titlecart{
+     padding: 0px;
+    margin: 0px;
+}
+
+a.more {
+    font-size: 12px;
+}
+
+.content.container {
+    margin-top: 30px;
+}
+
+.search {
+    padding-right: 16px;
+}
+
+ul.nav.navbar-nav li a {
+    color: white !important;
+}
+ul.nav.navbar-nav li a:hover{
+    color: black !important;
+}
+
+
+.wrapper {
+    width: 1200px;
+    margin: auto;
+}
+body{padding:30px 0 0 0}
+#content{min-height:800px}form
+.search{margin-top:5px;margin-bottom:5px}
+.navbar{margin-bottom:30px}
+.mainmenu{
+    margin: auto;
+    background:#357ebd;
+    border-color: #357ebd;
+}
+.mainmenu a,.mainmenu li a{color:#FFF}
+
+a.navbar-brand {
+    color: white !important;
+    font-weight: 400;
+}
+.navbar-header a:hover{
+    color: black !important;
+}
+.mainmenu .active a{background:#005eaf;color:#fff}

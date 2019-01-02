@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efef0f03-d1ba-4367-98bb-4b1e6b0cc5a6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/View/Books/view_cart.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/app/View/Books/view_cart.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_books" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_books" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_books_writers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_categories" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_categories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_comments" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_list" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_chickenrainshop_writers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_dev_vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_vi" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_vi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_default_en-us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_default_vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_method_cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_method_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tmp/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/app/tmp/logs/error.log" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cake2_chicken" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake2_chicken" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efef0f03-d1ba-4367-98bb-4b1e6b0cc5a6" name="Default" comment="" />
+      <created>1546339085500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546339085500</updated>
+      <workItem from="1546339086915" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
